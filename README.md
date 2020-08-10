@@ -38,9 +38,9 @@ Agora navegue até a pasta criada e abra no Visual Studio Code, execute o comand
 
 ### Funcionalidades da aplicação
 
-- **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos **title**, **techs** e número de curtidas seguindo o padrão `${repository.likes} curtidas`, apenas alterando o número para ser dinâmico.
+- **`Listar os repositórios da API`**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na API com os campos **title**, **techs** e número de curtidas seguindo o padrão `${repository.likes} curtidas`, apenas alterando o número para ser dinâmico.
 
-- **`Curtir um repositório listado da API`**: Deve ser capaz de curtir um item na sua API através de um botão com o texto **Curtir** e deve atualizar o número de likes na listagem no mobile.
+- **`Curtir um repositório listado da API`**: Deve ser capaz de curtir um item na API através de um botão com o texto **Curtir** e deve atualizar o número de likes na listagem no mobile.
 
 ### Específicação dos testes
 
